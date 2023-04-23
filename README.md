@@ -1,7 +1,8 @@
-# eLitmus-Assignment
+# TreasureTrove - Elitmus Project
 An interactive puzzle that can be solved on an online website
 This application challenges your problem-solving skills! Solve the puzzle, assess your soft skills, and have fun while sharpening your mind.
 
+Live demo - [click here](https://treasure-trove-project.onrender.com)
 
 ## Table of Contents
 
@@ -31,14 +32,14 @@ o	Minimum 1 solution
 ## Ways to Solve the Puzzle
 
 - Start with registering on the website. It contains a total of 5 riddles to be answered, along with 1 multiple-correct type question.
-- User can answer the questions by simply adding the answer at the end of the web-link Eg. https://elitmus-clueup-puzzle-application.onrender.com/answer.
+- User can answer the questions by simply adding the answer at the end of the web-link Eg. https://treasure-trove-project.onrender.com/answer.
 - Once a user solves the final riddle, a page showing "The Hunt Has Succeeded !!" gets displayed.
 
 ## Setup Instructions
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/shubhansh1607/eLitmus.git
+   git clone https://github.com/snehilsatyam2/TreasureTrove.git
    ```
 3. Install NPM packages
    ```sh
